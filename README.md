@@ -2,7 +2,8 @@
 
 Data link: [Kaggle](https://www.kaggle.com/datasets/jaspreetkhokhar/victoria-road-crash-data-2012-2023)
 
-Look at this image: ![dashboard](https://bombardierinc-my.sharepoint.com/:i:/r/personal/mahdi_bahadori_aero_bombardier_com/Documents/Desktop/cap1.PNG?csf=1&web=1&e=PfllUD)
+Look at this image: ![dashboard]<img width="595" alt="cap1" src="https://github.com/user-attachments/assets/379ced72-5188-47b5-aae7-140da98ef95c" />
+
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 

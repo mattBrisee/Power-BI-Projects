@@ -1,11 +1,15 @@
-# Victoria Road Crash (2012-2024) Dashboard
+# Victoria Road Crash (2012-2024) Report
 
 Data link: [Victoria road crash data](https://discover.data.vic.gov.au/dataset/victoria-road-crash-data)
 
 
 ## A brief overview
 
-This comprehensive dashboard analyses road crash data in Victoria from 2012 to 2024, examining key factors contributing to accidents, their geographic distribution, demographic patterns of involved parties, and temporal crash concentrations. Analysis reveals distinct peak accident periods during weekdays (8:00-9:00 AM and 3:00-7:00 PM) and weekends (11:00 AM-3:00 PM) across Victoria. The data indicates that drivers, passengers, and motorcyclists constitute the most significantly affected road user groups in terms of casualties, compared to other categories of road users.
+This comprehensive dashboard analyses road crash data in Victoria from 2012 to 2024, examining key factors contributing to accidents, their geographic distribution, demographic patterns of involved parties, and temporal crash concentrations. 
+
+## Data in a glance
+
+This analysis integrates nine distinct datasets, each capturing different aspects of road incidents: comprehensive accident details, vehicle specifications, personal information of involved parties, event sequences, precise location data, weather conditions at the time of accidents, detailed crash configurations (sub DCA), intersection/node information, and road surface characteristics.
 
 
 ### Analysis Insights

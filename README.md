@@ -46,6 +46,61 @@ Overall Statistics (Averages across months):
 - Monthly injuries: ~17,000-22,000
 - Monthly fatalities: ~230-300
 
+Time-based Risk Patterns:
+
+1. High-Risk Periods:
+- Highest accident volumes: 15:00-16:00 (9,164 car accidents)
+- Morning peak: 7:00-8:00 (4,731 car accidents)
+- Evening peak: 17:00-18:00 (9,755 car accidents)
+- Lowest accident volumes: Late night/early morning (23:00-0:00 with 2,168 car accidents)
+
+2. Road User Distribution:
+- Drivers make up the largest proportion throughout the day:
+  * Highest: Early morning (65%+ during 5:00-7:00)
+  * Lowest: Night hours (54-56% during 20:00-23:00)
+- Passenger involvement shows interesting patterns:
+  * Highest: Late night (28-29% during 22:00-23:00)
+  * Lowest: Morning rush (14-15% during 6:00-7:00)
+
+3. Vulnerable Road Users:
+- Pedestrians:
+  * Fairly consistent (4-6% throughout the day)
+  * Slightly higher representation during evening hours (5-6%)
+- Cyclists:
+  * Peak during morning commute (9-10% during 7:00-9:00)
+  * Lower during night hours (minimal presence 22:00-0:00)
+- Motorcyclists:
+  * Higher representation during midday and afternoon (7-9%)
+  * Lower during late night/early morning hours (4-5%)
+
+4. Age and Gender Patterns:
+- Young adults (18-29):
+  * Highest involvement during night hours
+  * Male predominance more pronounced during these hours
+- Children (0-17):
+  * Higher proportion during school transport hours
+  * More balanced gender distribution
+- Elderly (70+):
+  * Higher vulnerability during daylight hours
+  * Lower involvement during night hours
+
+5. Vehicle Type Distribution:
+- Cars consistently lead in accidents across all hours
+- Station wagons maintain second position
+- Night-time differences:
+  * Lower bicycle involvement
+  * Reduced utility vehicle presence
+  * Proportionally higher car involvement
+
+Key Safety Implications:
+1. Need for enhanced safety measures during peak commute hours
+2. Special focus on young male drivers during night hours
+3. Protection of vulnerable road users during their peak activity times
+4. Different risk profiles between day and night requiring targeted interventions
+5. School transport hours requiring specific safety protocols
+
+These patterns suggest the need for time-specific safety strategies rather than one-size-fits-all approaches to road safety management.
+
 Notable points:
 - The seasonal effect is evident with higher incidents during certain months
 - There's a clear pattern of reduced accidents during early morning hours (2:00-5:00 AM)

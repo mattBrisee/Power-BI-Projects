@@ -2,7 +2,7 @@
 
 Data link: [Kaggle](https://www.kaggle.com/datasets/jaspreetkhokhar/victoria-road-crash-data-2012-2023)
 
-Look at this image: ![dashboard](./cap1.PNG)
+Look at this image: <img width="595" alt="Image" src="https://github.com/user-attachments/assets/bab42a75-28af-418e-9f13-98fd29ff4357" />
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 

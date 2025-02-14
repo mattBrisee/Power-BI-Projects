@@ -11,6 +11,14 @@ This comprehensive dashboard analyses road crash data in Victoria from 2012 to 2
 
 This analysis integrates nine distinct datasets, each capturing different aspects of road incidents: comprehensive accident details, vehicle specifications, personal information of involved parties, event sequences, precise location data, weather conditions at the time of accidents, detailed crash configurations (sub DCA), intersection/node information, and road surface characteristics.
 
+## Reports
+
+Power BI was used to analysis and generate reports about all aspects of road crashes. The reports are organised into four distinct pages shown here:
+
+![Accidents by Date and Time](<img width="605" alt="Image" src="https://github.com/user-attachments/assets/4c97764b-beb9-420d-89d7-533b1f720b27" />)
+
+
+
 
 ### Analysis Insights
 

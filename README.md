@@ -180,17 +180,7 @@ Key Safety Implications:
 
 Accident Volume Pattern:
 
-Peak Periods:
-- Afternoon Peak (15:00-16:00): 14,466 accidents
-- Evening Peak (17:00-18:00): 14,353 accidents
-- Morning Peak (8:00-9:00): 11,146 accidents
-
-Declining Pattern:
-- Evening (20:00-21:00): 5,404 accidents
-- Late Night (22:00-23:00): 4,179 accidents
-- Early Morning (23:00-00:00): 3,265 accidents
-
-2. Type of Accidents by Time:
+1. Type of Accidents by Time:
 
 Daytime (6:00-18:00):
 - Dominated by vehicle-to-vehicle collisions
@@ -207,7 +197,7 @@ Late Night (22:00-4:00):
 - Increased animal-related incidents
 - Single vehicle accidents more common
 
-3. High-Risk Behaviors:
+2. High-Risk Behaviors:
 
 Peak Hours:
 - Rear-end collisions (highest during 16:00-18:00)
@@ -224,7 +214,7 @@ Late Night:
 - Vehicle control issues increase
 - Higher proportion of single-vehicle accidents
 
-4. Vulnerable Road Users:
+3. Vulnerable Road Users:
 
 Pedestrians:
 - Highest risk during evening peak (15:00-19:00)
@@ -236,7 +226,7 @@ Animals:
 - Peak during early morning hours
 - Higher proportion of total accidents at night
 
-5. Safety Implications:
+4. Safety Implications:
 
 Time-Based Interventions:
 - Enhanced traffic management during 15:00-18:00
@@ -257,4 +247,6 @@ This comprehensive analysis suggests that different risk factors dominate at dif
 
 The data clearly demonstrates the need for time-specific safety interventions, with particular attention to the distinct challenges presented during peak hours, evening transition periods, and late-night/early morning hours.
 
+## Summary and coclusion
 
+Victoria's road accident analysis reveals distinct temporal patterns with critical peaks during afternoon hours (15:00-18:00) accounting for approximately 14,400 accidents daily, followed by morning rush (8:00-9:00) with 11,146 accidents. The urban-rural distribution shows Melbourne dominating evening accidents (69.71% during 18:00-19:00) while rural areas peak in early mornings (24-30%). Vehicle-to-vehicle collisions, particularly rear-end incidents, dominate peak hours with 3,500+ cases during 17:00-18:00, while fixed object collisions and animal strikes increase significantly during night hours (22:00-04:00). Young adults (18-29) show highest night-time risk, while vulnerable road users follow specific patterns: cyclists peak during morning commute (9-10% of accidents), and pedestrians face highest risk during evening peak (15:00-19:00). Monthly data indicates March as the riskiest month (17,483 accidents, 22,323 injuries) and June as safest (13,589 accidents). Key recommendations include: implementing smart traffic systems and variable speed limits during peak hours, enhancing street lighting and DUI enforcement for night hours (22:00-04:00), establishing time-based emergency response positioning, and developing targeted interventions for specific user groups (school zones, cyclist lanes, pedestrian crossings). The most critical infrastructure priorities should focus on intersection safety improvements, wet weather management systems, and enhanced road marking visibility for night driving.

@@ -15,9 +15,19 @@ This analysis integrates nine distinct datasets, each capturing different aspect
 
 Power BI was used to analysis and generate reports about all aspects of road crashes. The reports are organised into four distinct pages shown here:
 
-1- Accidents bt Date and Time
+1- Accidents by Date and Time
 
 <img width="605" alt="Image" src="https://github.com/user-attachments/assets/4c97764b-beb9-420d-89d7-533b1f720b27" />
+
+2- Casualties Status
+
+
+
+3- Accident Location and Road and Environmental Conditions
+
+
+
+4-Accident Category and Sub-category Contributors
 
 
 

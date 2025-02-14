@@ -178,6 +178,83 @@ Key Safety Implications:
 - Geographic distribution of safety resources
 - Weather-dependent intervention strategies
 
-This 24-hour analysis reveals complex patterns requiring multi-faceted approach to road safety, with different strategies needed for different times and locations.
+Accident Volume Pattern:
+
+Peak Periods:
+- Afternoon Peak (15:00-16:00): 14,466 accidents
+- Evening Peak (17:00-18:00): 14,353 accidents
+- Morning Peak (8:00-9:00): 11,146 accidents
+
+Declining Pattern:
+- Evening (20:00-21:00): 5,404 accidents
+- Late Night (22:00-23:00): 4,179 accidents
+- Early Morning (23:00-00:00): 3,265 accidents
+
+2. Type of Accidents by Time:
+
+Daytime (6:00-18:00):
+- Dominated by vehicle-to-vehicle collisions
+- High rear-end collision rates (3,000+ during peak hours)
+- Significant cross-traffic incidents at intersections
+
+Evening (18:00-22:00):
+- Vehicle collisions remain primary (3,089-4,659)
+- Increased fixed object collisions (983-1,068)
+- Higher pedestrian incidents (548-741)
+
+Late Night (22:00-4:00):
+- Higher proportion of fixed object collisions
+- Increased animal-related incidents
+- Single vehicle accidents more common
+
+3. High-Risk Behaviors:
+
+Peak Hours:
+- Rear-end collisions (highest during 16:00-18:00)
+- Intersection violations
+- Multiple vehicle incidents
+
+Evening Hours:
+- Left/right off carriageway incidents increase
+- Out-of-control vehicle incidents rise
+- Cross traffic at intersections remains significant
+
+Late Night:
+- Fixed object collisions become more prevalent
+- Vehicle control issues increase
+- Higher proportion of single-vehicle accidents
+
+4. Vulnerable Road Users:
+
+Pedestrians:
+- Highest risk during evening peak (15:00-19:00)
+- Significant numbers during night (500+ between 20:00-22:00)
+- Lower but still concerning numbers in early morning
+
+Animals:
+- Increased incidents during dawn/dusk
+- Peak during early morning hours
+- Higher proportion of total accidents at night
+
+5. Safety Implications:
+
+Time-Based Interventions:
+- Enhanced traffic management during 15:00-18:00
+- Specific night-time safety measures (22:00-4:00)
+- Early morning vigilance (especially for animal incidents)
+
+Risk Management:
+- Focused intersection control during peak hours
+- Enhanced lighting and signage for night hours
+- Special attention to pedestrian areas during evening hours
+
+Geographic Considerations:
+- Urban areas need peak hour management
+- Rural areas need night-time safety measures
+- Suburban areas need balanced approach
+
+This comprehensive analysis suggests that different risk factors dominate at different times, requiring varied safety approaches throughout the day. The transition from peak to off-peak hours shows clear patterns in both the volume and nature of accidents, with distinct characteristics during night hours versus day hours.
+
+The data clearly demonstrates the need for time-specific safety interventions, with particular attention to the distinct challenges presented during peak hours, evening transition periods, and late-night/early morning hours.
 
 

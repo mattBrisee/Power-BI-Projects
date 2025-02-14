@@ -31,7 +31,7 @@ Power BI was used to analysis and generate reports about all aspects of road cra
 
 <img width="603" alt="Image" src="https://github.com/user-attachments/assets/db249d72-3cda-4fb1-8be9-c7247009428b" />
 
-Model schema is alson as below:
+Model schema is also shown below:
 
 <img width="691" alt="Image" src="https://github.com/user-attachments/assets/654f7916-d65f-4574-b85b-bc1ed2833f53" />
 

@@ -21,15 +21,15 @@ Power BI was used to analysis and generate reports about all aspects of road cra
 
 2- Casualties Status
 
-
+<img width="599" alt="Image" src="https://github.com/user-attachments/assets/185673d8-afd5-4dca-8dc6-59d7e7009459" />
 
 3- Accident Location and Road and Environmental Conditions
 
-
+<img width="605" alt="Image" src="https://github.com/user-attachments/assets/bde78a18-7742-4698-9717-07adf3d02627" />
 
 4-Accident Category and Sub-category Contributors
 
-
+<img width="603" alt="Image" src="https://github.com/user-attachments/assets/db249d72-3cda-4fb1-8be9-c7247009428b" />
 
 
 ### Analysis Insights
